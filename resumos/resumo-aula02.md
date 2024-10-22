@@ -72,3 +72,7 @@ touch nome.tipo (README.md)
 ```
 git log
 ```
+- Mostra histórico de versões de maneira detalhada
+```
+git reflog
+```
