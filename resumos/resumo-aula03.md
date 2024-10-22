@@ -44,8 +44,3 @@ git reset --mixed rest-do-commit
 ```
 git reset --hard rest-do-commit
 ```
-
-- 
-```
-
-```
