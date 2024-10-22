@@ -57,11 +57,18 @@ git remote -v
 ```
 ls
 ```
+
 - Verifica o status 
 ```
 git status
 ```
+
 - Cria um arquivo
 ```
 touch nome.tipo (README.md)
+```
+
+- Mostra histórico de versões
+```
+git log
 ```
