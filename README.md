@@ -8,11 +8,14 @@ Repositório para armazenar resumos sobre Git e GitHub do curso da [DIO](https:/
 
 ## 🖥️ Resumo das aulas
 
-| Aula | Resumo |
-|-----:|--------|
-|     1|        |
-|     2|        |
-|     3|        |
+| Aula      | Resumo |
+|----------:|--------|
+|     Aula 1| [O que é Git e GitHub](../git-e-github-dio/resumos/resumo-aula01.md) |
+|     Aula 2| [Criando e clonando repositórios](../git-e-github-dio/resumos/resumo-aula02.md) |
+|     Aula 3| [Salvando alterações no repositório local]() |
+|     Aula 4|        |
+|     Aula 5|        |
+|     Aula 6|        |
 
 ```
 git init
