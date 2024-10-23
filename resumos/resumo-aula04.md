@@ -18,3 +18,8 @@ git push -u origin main
 ```
 
 ## Como baixar alterações?
+
+1. Puxa as alterações do repositório remoto para o local
+```
+git pull
+```
